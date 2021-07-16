@@ -1,0 +1,24 @@
+body{
+  font-family: roboto;
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background:url('blue.jpg');
+    color: rgb(255, 255, 255);
+}
+
+footer {
+  margin-top: 50px;
+
+}
+
+footer a{
+  font-family: roboto;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+
+}
